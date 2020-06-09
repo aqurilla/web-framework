@@ -1,5 +1,7 @@
-# Web Framework built using TypeScript
+# Simple Web Framework
 
-Features
+- Framework with customizable and extendable Model, View and Events classes, for building custom webpages.
 
-- Mock backend server using json-server
+- Built using TypeScript
+
+- Includes example implementation for a User model
